@@ -1,9 +1,9 @@
 {% if section.settings.image_custom_payment == blank %}
   <div class="payment-icons flex">
     <span class="hidden">{{ 'general.payment.options' | t }}: </span>
-    <ul class="flex flex-wrap -m-2.5">
+    <ul class="flex flex-wrap mb-6 lg:mb-0">
       {%- for type in shop.enabled_payment_types -%}
-        <li class="m-2.5">
+        <li class="ml-2">
           {{ type | payment_type_svg_tag: class: 'icon icon--full-color' }}
         </li>
       {%- endfor -%}
