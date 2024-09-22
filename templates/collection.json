@@ -2,6 +2,18 @@
   "sections": {
     "collection-header": {
       "type": "collection-page-header",
+      "blocks": {
+        "banner_dbT7KT": {
+          "type": "banner",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "banner_dbT7KT"
+      ],
+      "disabled": true,
       "settings": {
         "container": "container",
         "layout": "inside",

@@ -105,6 +105,33 @@ background: transparent;
 .header-wrapper .header{
 margin-top: 20px;
 }
+
+.sf__pcard-style-4 .sf__pcard-content .sf__pcard-quick-add .sf__btn {
+  margin-top: 0px !important;
+}
+
+.product-recommendations .sf-column, .recently-viewed .sf-column {
+    padding: 0 calc(var(--column-gap)/2) var(--row-gap,var(--column-gap)) !important;
+}
+
+#ShopifyChat {
+    position: fixed !important;
+    bottom: 16px !important;
+    z-index: 2147483646 !important;
+    right: 72px !important;
+    height: 120px !important;
+}
+
+@media screen and (max-width:767px){
+  #ShopifyChat {
+    right: 60px !important;
+    height: 110px !important;
+  }
+
+  #scroll-to-top-button {
+    bottom: 75px !important;
+  }
+}
 </style>
  
 {% endif %}

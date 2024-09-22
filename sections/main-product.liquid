@@ -1,3 +1,10 @@
+<style>
+.product-recommendations .sf-column, .recently-viewed .sf-column {
+  padding: 0 calc(var(--column-gap)/2) var(--row-gap,var(--column-gap)) !important;
+}
+</style>
+
+
 {%- liquid
   assign container = section.settings.container
   assign layout = section.settings.layout
