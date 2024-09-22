@@ -1,0 +1,573 @@
+{
+  "sections": {
+    "1621243260e1af0c20": {
+      "type": "slider",
+      "blocks": {
+        "slider_item_R96hzm": {
+          "type": "slider_item",
+          "settings": {
+            "background": "shopify:\/\/shop_images\/Tech_Acessories.jpg",
+            "content_in_container": false,
+            "content_position": "left top",
+            "text_alignment": "left",
+            "text_size": "large",
+            "text_color": "white",
+            "subheading": "",
+            "title": "SMART ACCESSORIES",
+            "description": "",
+            "image_link": "",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/smart-home",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "show_footer": false,
+            "footer_alignment": "end",
+            "footer_text": "New Collection",
+            "footer_button": "Shop Now",
+            "footer_link": ""
+          }
+        },
+        "slider_item_r44aWW": {
+          "type": "slider_item",
+          "settings": {
+            "background": "shopify:\/\/shop_images\/Modern_Home_Decoration.png",
+            "content_in_container": false,
+            "content_position": "left bottom",
+            "text_alignment": "left",
+            "text_size": "large",
+            "text_color": "white",
+            "subheading": "",
+            "title": "HOME DECORATION",
+            "description": "",
+            "image_link": "shopify:\/\/collections\/home-decoration",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/home-decoration",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "show_footer": false,
+            "footer_alignment": "end",
+            "footer_text": "New Collection",
+            "footer_button": "Shop Now",
+            "footer_link": ""
+          }
+        },
+        "slider_item_xGPf3n": {
+          "type": "slider_item",
+          "settings": {
+            "background": "shopify:\/\/shop_images\/Personal_Care_Acessories.jpg",
+            "content_in_container": false,
+            "content_position": "left bottom",
+            "text_alignment": "left",
+            "text_size": "large",
+            "text_color": "white",
+            "subheading": "",
+            "title": "PERSONAL CARE",
+            "description": "",
+            "image_link": "",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/personal-care-accessories",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "show_footer": false,
+            "footer_alignment": "end",
+            "footer_text": "New Collection",
+            "footer_button": "Shop Now",
+            "footer_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slider_item_R96hzm",
+        "slider_item_r44aWW",
+        "slider_item_xGPf3n"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "container": "w-full",
+        "slideshow_height": "large",
+        "show_overlay": false,
+        "dots_position": "bottom",
+        "dots_color": "dark",
+        "show_dots": false,
+        "show_arrows": false,
+        "autorotate": true,
+        "autorotate_speed": 4,
+        "use_content_above": true,
+        "custom_class": ""
+      }
+    },
+    "55048204-5cb9-473e-88c0-7ecd848f0eec": {
+      "type": "image-with-text-1",
+      "blocks": {
+        "template--19996973269293__55048204-5cb9-473e-88c0-7ecd848f0eec-1689409787f2f2cae3-4": {
+          "type": "item",
+          "settings": {
+            "content_position": "bottom_center",
+            "content_alignment": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "image": "shopify:\/\/shop_images\/Home_Decoration.png",
+            "link": "shopify:\/\/collections\/home-decoration",
+            "title": "",
+            "subtitle": "",
+            "button_label": "HOME DECORATION",
+            "button_style": "sf__btn-primary",
+            "button_size": ""
+          }
+        },
+        "template--19996973269293__55048204-5cb9-473e-88c0-7ecd848f0eec-1689409787f2f2cae3-3": {
+          "type": "item",
+          "settings": {
+            "content_position": "bottom_center",
+            "content_alignment": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "image": "shopify:\/\/shop_images\/Tech_Acessories_ab0bc8cd-06aa-4b1c-9609-80a595310ae8.jpg",
+            "link": "shopify:\/\/collections\/smart-home",
+            "title": "",
+            "subtitle": "",
+            "button_label": "SMART HOME",
+            "button_style": "sf__btn-primary",
+            "button_size": ""
+          }
+        },
+        "template--19996973269293__55048204-5cb9-473e-88c0-7ecd848f0eec-1689409787f2f2cae3-2": {
+          "type": "item",
+          "settings": {
+            "content_position": "bottom_center",
+            "content_alignment": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "image": "shopify:\/\/shop_images\/Personal_Care_Acessories_daa60d2b-56f7-4cfe-86f4-d78001ad178c.jpg",
+            "link": "shopify:\/\/collections\/personal-care-accessories",
+            "title": "",
+            "subtitle": "",
+            "button_label": "PERSONAL ACCESSORIES",
+            "button_style": "sf__btn-primary",
+            "button_size": ""
+          }
+        },
+        "template--19996973269293__55048204-5cb9-473e-88c0-7ecd848f0eec-1689409787f2f2cae3-0": {
+          "type": "item",
+          "settings": {
+            "content_position": "bottom_center",
+            "content_alignment": "left",
+            "text_size": "large",
+            "text_color": "black",
+            "image": "shopify:\/\/shop_images\/Home_Automation.jpg",
+            "link": "shopify:\/\/collections\/smart-home-lighting",
+            "title": "",
+            "subtitle": "",
+            "button_label": "HOME LIGHTING",
+            "button_style": "sf__btn-primary",
+            "button_size": ""
+          }
+        },
+        "template--19996973269293__55048204-5cb9-473e-88c0-7ecd848f0eec-1689409787f2f2cae3-1": {
+          "type": "item",
+          "settings": {
+            "content_position": "bottom_center",
+            "content_alignment": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "image": "shopify:\/\/shop_images\/Tech_Accessories.jpg",
+            "link": "shopify:\/\/collections\/smart-accessories",
+            "title": "",
+            "subtitle": "",
+            "button_label": "SMART ACCESSORIES",
+            "button_style": "sf__btn-primary",
+            "button_size": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19996973269293__55048204-5cb9-473e-88c0-7ecd848f0eec-1689409787f2f2cae3-4",
+        "template--19996973269293__55048204-5cb9-473e-88c0-7ecd848f0eec-1689409787f2f2cae3-3",
+        "template--19996973269293__55048204-5cb9-473e-88c0-7ecd848f0eec-1689409787f2f2cae3-2",
+        "template--19996973269293__55048204-5cb9-473e-88c0-7ecd848f0eec-1689409787f2f2cae3-0",
+        "template--19996973269293__55048204-5cb9-473e-88c0-7ecd848f0eec-1689409787f2f2cae3-1"
+      ],
+      "settings": {
+        "heading": "FEATURED COLLECTIONS",
+        "subheading": "",
+        "description": "Discover & Experience the Best and Unmatched Quality to Enjoy and Extend Love",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "layout": "layout_1",
+        "gap": 30,
+        "use_scroll_mobile": true,
+        "mobile_gap": 10,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "custom_class": ""
+      }
+    },
+    "16225316461d1cff80": {
+      "type": "collection-list",
+      "blocks": {
+        "07ebf095-1da2-4546-87f3-97e73a789e8d": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "personal-care-accessories",
+            "title": "Personal Care",
+            "item_image": "shopify:\/\/shop_images\/Personal_Accessories.jpg"
+          }
+        },
+        "694c01c9-a95f-4c09-9cf0-ec75f0131e98": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "smart-glasses",
+            "title": "Smart Glasses",
+            "item_image": "shopify:\/\/shop_images\/Smart_Glasses.jpg"
+          }
+        },
+        "5cc99835-c249-4531-b266-9e28f7d4d580": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "smart-accessories",
+            "title": "Smart Accessories",
+            "item_image": "shopify:\/\/shop_images\/Smart_Accessories.jpg"
+          }
+        },
+        "16225316461d1cff80-1": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "smart-watches",
+            "title": "Smart Watches",
+            "item_image": "shopify:\/\/shop_images\/Smart_Watches.jpg"
+          }
+        },
+        "65e38235-f03b-43c9-8590-38c9c656e51c": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "smart-home-lighting",
+            "title": "Home Lighting",
+            "item_image": "shopify:\/\/shop_images\/Smart_Home_Lighting.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "07ebf095-1da2-4546-87f3-97e73a789e8d",
+        "694c01c9-a95f-4c09-9cf0-ec75f0131e98",
+        "5cc99835-c249-4531-b266-9e28f7d4d580",
+        "16225316461d1cff80-1",
+        "65e38235-f03b-43c9-8590-38c9c656e51c"
+      ],
+      "settings": {
+        "heading": "SHOP BY COLLECTIONS",
+        "subheading": "",
+        "description": "\"Elevate Your Lifestyle &\nGet Empowered with Lastest Innovations\"",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "",
+        "layout": "grid",
+        "card_style": "standard",
+        "text_alignment": "center",
+        "hover_effect": "scaling-up",
+        "show_product_count": false,
+        "count_inline_title": false,
+        "image_rounded": true,
+        "items_per_row": 3,
+        "item_gap": 30,
+        "enable_slider": true,
+        "show_pagination": true,
+        "show_navigation": false,
+        "autorotate": true,
+        "autorotate_speed": 5,
+        "use_scroll_mobile": true,
+        "mobile_gap": 16,
+        "hidden_slide_control_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "custom_class": ""
+      }
+    },
+    "4c97c942-22ee-4805-a60b-e514ec9e6e14": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "BEST SELLING",
+        "subheading": "",
+        "description": "Empowering Your Lifestyle with Innovative Essentials: Best Selling Products",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "collection": "best-selling",
+        "enable_flashsale": true,
+        "show_countdown": false,
+        "product_to_show": 8,
+        "items_per_row": 4,
+        "item_gap": 30,
+        "pcard_layout": "4",
+        "pcard_image_ratio": "1\/1",
+        "show_vendor": true,
+        "hide_title": false,
+        "enable_slider": true,
+        "show_pagination": false,
+        "show_navigation": false,
+        "button_type": "link",
+        "button_text": "",
+        "button_style": "sf__btn-primary",
+        "button_size": "",
+        "infinite_load": false,
+        "max_page_load": 3,
+        "use_scroll_mobile": true,
+        "item_gap_mobile": 12,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "custom_class": ""
+      }
+    },
+    "featured_collection_NjeCqk": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "NEWEST ARRIVALS",
+        "subheading": "",
+        "description": "New! and Noteworthy: Discover the Latest Treasures!",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "collection": "newest-arrival",
+        "enable_flashsale": true,
+        "show_countdown": false,
+        "product_to_show": 8,
+        "items_per_row": 4,
+        "item_gap": 30,
+        "pcard_layout": "4",
+        "pcard_image_ratio": "1\/1",
+        "show_vendor": true,
+        "hide_title": false,
+        "enable_slider": true,
+        "show_pagination": false,
+        "show_navigation": false,
+        "button_type": "link",
+        "button_text": "",
+        "button_style": "sf__btn-primary",
+        "button_size": "",
+        "infinite_load": false,
+        "max_page_load": 3,
+        "use_scroll_mobile": true,
+        "item_gap_mobile": 12,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "custom_class": ""
+      }
+    },
+    "image_with_text_2_Pgk34j": {
+      "type": "image-with-text-2",
+      "settings": {
+        "container": "w-full",
+        "hero_size": "adapt",
+        "show_overlay": true,
+        "image": "shopify:\/\/shop_images\/Personal_Care.jpg",
+        "bg_position": "center",
+        "image_link": "shopify:\/\/collections\/home-decoration",
+        "parallax": false,
+        "content_in_container": false,
+        "content_position": "left middle",
+        "text_alignment": "left",
+        "text_size": "large",
+        "text_color": "white",
+        "title": "",
+        "subtitle": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "shopify:\/\/pages\/contact",
+        "button_style": "sf__btn-primary",
+        "button_size": "",
+        "use_content_above": true,
+        "custom_class": ""
+      }
+    },
+    "162251092958fcda7c": {
+      "type": "product-tabs",
+      "blocks": {
+        "162251092958fcda7c-1": {
+          "type": "tab",
+          "settings": {
+            "title": "Personal Care Appliances",
+            "collection": "personal-care-accessories"
+          }
+        },
+        "d094155d-43e3-4e91-b85b-9044c358666e": {
+          "type": "tab",
+          "settings": {
+            "title": "Table Lamps",
+            "collection": "table-lamps"
+          }
+        },
+        "ca2d4551-2c7d-4127-8e24-a66b44e4ece8": {
+          "type": "tab",
+          "settings": {
+            "title": "Smart Accessories",
+            "collection": "smart-accessories"
+          }
+        },
+        "f1c5b745-8c3e-471f-af1d-f029fef7f84e": {
+          "type": "tab",
+          "settings": {
+            "title": "Home Decoration",
+            "collection": "home-decoration"
+          }
+        }
+      },
+      "block_order": [
+        "162251092958fcda7c-1",
+        "d094155d-43e3-4e91-b85b-9044c358666e",
+        "ca2d4551-2c7d-4127-8e24-a66b44e4ece8",
+        "f1c5b745-8c3e-471f-af1d-f029fef7f84e"
+      ],
+      "settings": {
+        "heading": "LIMITED EDITION",
+        "subheading": "",
+        "description": "Unleash Flow In Your Life: Your Tech Journey Starts Here",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "tab_header": "horizontal",
+        "limit": 4,
+        "show_button": false,
+        "button_type": "load",
+        "button_label": "Shop More",
+        "button_style": "sf__btn-primary",
+        "button_size": "",
+        "pcard_layout": "1",
+        "pcard_image_ratio": "1\/1",
+        "show_vendor": true,
+        "items_per_row": 4,
+        "item_gap": 24,
+        "enable_slider": true,
+        "show_navigation": true,
+        "show_pagination": true,
+        "use_scroll_mobile": true,
+        "item_gap_mobile": 16,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "custom_class": ""
+      }
+    },
+    "1725112747cd9b32e5": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_9HfwNV": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1200
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_9HfwNV"
+      ],
+      "settings": {
+        "heading": "Words From Delighted Voices",
+        "subheading": "",
+        "header_alignment": "center",
+        "container": "w-full",
+        "background_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    },
+    "16225125199f82d8fe": {
+      "type": "icon-box",
+      "blocks": {
+        "16225125199f82d8fe-0": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAkFBMVEX\/AAD\/\/\/\/\/oKD\/cXH\/3Nz\/9PT\/Gxv\/6+v\/iIj\/c3P\/GBj\/kJD\/wMD\/qan\/d3f\/zc3\/m5v\/9\/f\/2Nj\/8PD\/fX3\/Jyf\/hIT\/4uL\/tbX\/SUn\/0dH\/u7v\/ODj\/p6f\/xsb\/ZWX\/VVX\/XV3\/r6\/\/Kyv\/nZ3\/PDz\/TEz\/5ub\/WFj\/bGz\/Q0P\/GRn\/Y2P\/lZX\/Dg7\/MTHUNpuyAAAKM0lEQVR4nO2d63qiMBCGQUU81FJRS1fbilprtR7u\/+4WFJKQ4yBRG558z\/5ZDAlvCckkmUwct+5yHv0AN5clNF+W0HxZQvNlCc2XJTRfltB8WULzZQnNlyU0X5bQfFlC82UJzVdGGHVKqg\/V4euFp48B0sfgLdHsM9U0DDebje\/pJvSfnb+ldvyplXD5aCCevjQSHh4Nw9dBG+Hbo1FEetNEOHo0iFgtPYSNR3OINbOExhPq+RAt4SNVf8KlJbSEf55wUHvCF0toCf88Yb\/2hB1LaAn\/POG49oTPtSes\/zvs1p5wbgkt4Z8nXNSe8McSGk8Y157wX+0J36dBEITheVl4s\/ETjRJ5XvJvmPxLZDohq+Px2JskOiVa79brOKgbIavtpu6EzuSp7oTKieMaECoQ60DoSNubWhCuZM1NLQilo5B6EDqN2hM6Ue0JF7UnFC\/614Zw4ted0HmtPaET1p7wG0h4bIrUjfMkW+Lqdr\/fL+Ld6beQy+lZlMm\/LEVPXM43\/ezHVGpEfmPDEE7EA+fcE7XNftTD4eapSeQinpD\/yFK8C1OwPsuDKIpa6WA\/HfQHqT\/4LNGAhj5x3cM1EZ4VbUsQnsSEA5pQMAT8pNNxF\/51ErouyuwuhIz\/9pFngeslREnuQ+i+Uwl563GaCd3xXQmf6JQcx+kyhDMAoferIMwfX0LItDTiqZg9lZIzTc4QtjNCn9jVctEy33eSE342BulelyD0Pfxn+SoQRtMwTJu\/p0Sz89aYPJOckFNOk3okCWGLTsruRGH7w+xhA\/pe4o+QEeKdNr3dq1coMyf8EWYyUZcDIHRfqaRrpgpWIeyQFxd5jmuS8B8\/B32EzGYKxqGxCmG\/cDX3rH+9KyFqudDDjW5GmEO9kP+hm3P9hEwRtDdcFcKXwtVddmPjzoQzOjXV7esjXHkcwsntCd2YSt3UR\/hVuHrKbuyThO07EE7p5FNthMVb8+HZM0koHvPoI3S3VPLiQFEfYe5JuCMJxZloJNzQ6QsDxSqEA95F37k7IdPtFyxPIWHUfG7Ot9vtfPHzE39\/\/9vhCschnHTzFmxZIHymNEYf5gSXU9S8POGI\/hjI\/adCQkYLhvBzsW2Ox51+YzbF3eyuQMgImQBCC58xNdWEVKueiOj24YTYjJeNLbLxTAXC8ApCj+6VCNdUOCG2+CWEfu8hhOyAC\/cY7GyiaLc\/HkmICYP8bwkgFJVzFSFjPGFvIzjhGECIGjU14S9tIVcjZGw3dA+cENvZYkJvDSZkxgDVCJlRDJpDEBN6RQ0hhMiC6vIz8bKmliSky+F0kBBCxnbLF02FhFOnV9Av2x\/6rWjjj7xCk\/FcJJwUM+lhOzUnZMrpXUfI2G45iJAQYNOkX+bxt706rWO0yjwtEkoyGSnLKUfI9KMdPYS5kK9A71GEhcc5K9JKiNx29g8jZKZsunoJ8yHLy8MIqVkVJ5sf1kboZBffgIRHXzvhkDbA93oJs7nYTyjhRjshuxzQ0kr4cblYnBG+L+GQtt0WWgmzWbzRAwlZ222qkzCb4hq2H0jo0gvkC52EuTUPnKe5DSFj1LY0EuZrInOSkF5XSkQRVlt7YkQvt\/U1EuYDvgNJyBFFyFGJ9UNG9LzbRCMhmr2pTAhfA+aI7vYDllD9ffAJj9kK86gNIqSXF3QR0lM2XyxhdCUhWn7twgjFHqGVCGkHjYa+d4hs7\/CxhNSXKCZkxswE4YhLiLwEOhVrKdPSlAsTWTRsOIRvQTANw0gSbLAXRK1EET2qbgZher2VvP75piVSnnoZfKY+XME0VZgrzZcJ5DhXhBodJ0o94ubz\/eJnV5wk4BDWTJbQfFlC82UJzZclNF+W0HxZQvNlCc2XJTRfltB8WULzZQnNlyUUKY1HJd5pcEOlcbAAm56xyhP24sPbdJOGFRttpm+duFRxVdSeN2bTczwzv\/W5fN2p7zirJGF7HNDOmaOnJsfXTrcmh5D2KfZn9HovV6UI4xnfc3n4cbr2yWGaC5Zm\/IZ4X1WuEoQ\/kmhM3lJd1NWShZ3zBivF3WDCo+JIFK+jzuMq\/SqClakKhhL+KEPbuU83aVsXkp0PmQLpNwIkBEVHj5h4FtUlif+E5cWyHECEoHKSkhbqrMoJeFrQkPHAIZ4dQvjBzZV3jbNnqYq4TQy3PRcf4AghpHZHD4P+fneatFfr7+6AjmHAuJNrBBw99RfrS8HPS7pg4VsEEBYDhkSH4ncdD4r7JjQiFo9dCztFR5ndR7ENEn0hasLCrlq\/wxppkxfSzBmK96eXVOEQy4hTDVcvZIUdCVpUJeGOzGXJ7xBWpL+LL97cXEoLEpDZfXfRO1mPBe4xSkKivo\/ENZDsTZh4I1eJ3DS0iYXJyK2UfBIVIVFVIpk1PydqqqTphovoJ0KZYUa6JnEfUEH4jutoJLc8iUrFbDy+QkQo76ncViIQOXvClIS4OfNUwwciwCa98fgK4Q2Skeq7JiLR8XpFOeEE36w2V3A8Cl+ZViVcI4ZrZWJskEScX+WE+F6IbYcHcZW\/RNw4A4YsR9waMlufUsIv9iK6FbVnEWSuAncsEO90mVb4I4Qkj2XJvxxJ444jZ3VBD4ZfOXQSRSDcB4AmKojawxb85kgCHaH+lFe\/OVqhl1jxIGzUzgArAw6EQcfjSX5yxDVwhfo46PgdNb3cdhss3MBBz3wPhAVH6cnjorq+RQVBJ5r26I5K0zYoXIAPnTbA3xP1Q3A5Pb7Fb5HRZwX63FPhpqnSEAPNzDDbmERaoYIL8wyntLqnhK7XmaxWq3YiMowmingqaW4poVaecdUuI+Tjzmn8BULV9LB6z7RbNM6fmXP54TyFnShK42gmSl2u0ZuHvxA0lhwK3bwBQgXDR2LYfj6f7EGe7uG4SgHMilxNdW4lNITP3m3FuQAImcAhYuk53ScXs3VZLMmhOwBCH74uoefsG1QwnHAnzgVAuIETSgq6QiWGYWy4RKS\/TFjiHUoqz5\/+DuFrk3txLpC2FG6g6Dl1EhUMb0slBQMIS\/SHwOl\/qOBDFMn0P4RQMJfHEeCAqTKCGt7c+MG5IITgkUJbFJ\/oSoHtUlkvBSF0VeusufQcb4sFHlscJJmACKHVVHMlhZvekkoKIwR2vXotmlTAcZvEKgUSAgf5pbbrwgRrxgUnW1wEIwQttyw0ENHiBFFkJX2FQEJXsis4V0+8ObuCABO1E1Hkt4uAhIBvHrjmXlbq+cSZPAMooRsryqGDTOuSp\/LwUNlRYEKFF4LopJ7q8uRzGcq\/LJhQXlFlXW5VDWUVlXssSUElCNloYUg3+gZziZfrAAWXIXSnfPMtVruEVVTAH4QDXMJKErruku0Yd+WiVlypL9ZEhRyV65YmTOz9wlrpb\/cufG7q4BmTBZ\/GU\/U9Z5UmdN3RrP960YHxGL6pNrNOVnCD8RgW6wpCw2QJzZclNF+W0HxZQvNlCc2XJTRfltB8WULzZQnNlyU0X5bQfFlC81V\/wv9fmO1m\/gT7ywAAAABJRU5ErkJggg==",
+            "title": "Fastest Shipping",
+            "description": "<p>Experience Efficient, Reliable 7-14 Days Worldwide Shipping Services For Supersonic Speed Package Travel.<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "71deafbb-3baf-443a-a087-3f7b8af7b9fa": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "https:\/\/png.pngtree.com\/element_our\/20190528\/ourlarge\/pngtree-flat-money-icon-download-image_1168533.jpg",
+            "title": "14-Days Return Policy",
+            "description": "<p>Not 100% in Love with your Purchase from “<strong>Innovate Gadget<\/strong>” ? Send It Back Hassles Free! We'll make sure you're <strong>fully satisfied<\/strong>!<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "16225125199f82d8fe-1": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "https:\/\/www.freepngimg.com\/save\/13501-guarantee-png\/1024x1024",
+            "title": "Satisfaction Guaranteed",
+            "description": "<p>We Always Stand By Excellent Quality of our Products because your <strong>happiness is what matters most<\/strong>.<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "16225125199f82d8fe-2": {
+          "type": "iconbox",
+          "settings": {
+            "image_by_url": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAkFBMVEX\/\/\/\/\/AAD\/\/Pz\/09P\/Wlr\/7e3\/5OT\/+Pj\/wsL\/9vb\/ycn\/6ur\/8fH\/qKj\/o6P\/m5v\/a2v\/srL\/kZH\/goL\/Xl7\/jIz\/zc3\/uLj\/lZX\/4eH\/2Nj\/Ojr\/UlL\/t7f\/Jib\/GBj\/TEz\/ZWX\/cHD\/QUH\/EBD\/MTH\/dnb\/pqb\/ISH\/LS3\/hob\/fHz\/ra3\/XFz\/R0f\/FhaJGIKHAAANGElEQVR4nN1d2WLiOgwdwgABwr4HWpICLRSm\/P\/fXWgHcGzZlhUvzD2vLYQT29ol\/\/rlEo2klsYvp073io\/TYNZKa0kzcvpMP4hq1bh7zLPXCoDz8s\/7cNBa\/KtMo3o8zDd7iFoR28Nq1KkmoX+vIdJuvtNzY7H++oyboX82Ekl8PJuxuyPr1kP\/ei3apz9EdjeSvTQ0BwWSQUl6f0l2aqGZwKi+2aD3g\/40NBsBjdnKHr8rvl6eSodEHUPJicHy9DwcBwf7\/K54HYRm9o1o5ojfFcs4NL2LfLF8\/nj8Dqw8ok+3\/K6YhzyOLdCito1lNRS\/5rsPflcMwyzjdOmLYKWyWgQg2PPH74Ktd8UR5V4JXjDyS7D95ZtgpZI3PBKcepGhPDb+nMdWCH4XrH2pjVkgghd548epOgUjeIEPii8hCVYq7s3UOCxB9xSnoQlWXt1K1JQaJ7SIjcuwatNBsMIcY4cMHXu7WLgz4Eahqd3QdUQwsJ5g4UagtreheT2wdOISB3An5Jg4IDgMTaqIlnWCaWhKHHa2U6rRkyiKB2yrjE5oQiLsytNkHZqPiJVVhpPQdCDYzGnUQpMBsbQYmrKY3bWJD2sEn01T3HCwpjGedAkrlZMlgovQRKRYWmLoIUdIhZ3QW\/IEkQsZflth2A1NQwUrWbeniM3IcLRAsBqahBJrCwViTyxnrngpTTAKkkjDo1+aYahMGhblt6m3egsqZiUJNp8owAYjL8nw2TfpBSXTGE\/p+hZR0hH2WBVExWcpgvXQPx+Bcg5G0Jw9FqX0RZ\/6VJ+7u0z4O6L+0JVPr7lMDqNNfeiAvvrmKBM4pWrDfdOnIt2WCEhRnd+rAN9YZaFEiVgGNch29bw91oZ1yAQj4jpk1w83\/IlTus6vIfojIfzU8w7s0lCAHo8ixroPf\/MJv+3ykOOVzJBY4nVLJ\/jL55CtGto+e70Lb29xSHJlLc11YjJCvtQ+ORxFimCcmS9IPClFst1Gqk4oxE3qDvvaGLxRGVKi3ZyRWPcSjKSqi4hSnsAf+rYPihsqQ8KzhsK3JLltPiIOxDK3hvmjMuhR7pXGmhhvS8wfBave1EqbvvlztTD306WaN3Z8GonV7cZGmypyOXNqpRKNGsPWioPGEU0n7ipUiVFhM4ZHfSwhqg\/e3XiNxP5LE4Z99EmIkmo8G5xOnU53\/o3h6BvHtyvG4z9ZtlzuDRNCRC8fzXAzt9+mGyWL6wCmFU5E9WgPwTDcrz5PC5ed1kn6ketDDaKhgYKG4T4fzlIv452SWOeGvS\/SNqFSUcVw2al77ZHHTIdZ90+GelEV1A3QHz\/FeGKbuQlJRSXNlzMeCiAl3xte\/SusNs\/N8T9A28kI1az9RluFnWZAx0T2yDi\/wnsKMzTGIMmAM3LkDLdtx1xgmIziQNkAch\/fTeuYFkaGMsYIkJe02W3mQMOsTBKzitKT\/e6cDAjDyhBEPdhY9tm5ezYQTHuT9NJCGvMuX9RJg6FzudGKC2lns\/32RhwyM4b6jmhp22ioGWq5IcO9zriR6p8Qc6muMG6X18hTuXAONV90bsrwVXkSFTnuUFPwzKPnKonRVrhj0P8n8aS\/yrJ8Mith0jVbvVF\/9fs4nIHbxLyQUOEEqVqb1+K\/t3Lm7xlxumr9yITYsoH4JeY1Ojv501RWrvCxlA9o7wj15e0j\/yWCg0AY\/yPdUMqcBe\/hQ8fjzTQd1AIiamNO2hOKQ6SeojJbxBnesNu2NIsKwXtmX4xIEAp8ZPF+dWVhoQFAOl9wbaI1pYeiQJFQtSoza9Shu4JrwZ+eBw74CKa8cmfLvidCvauk5k2z39niDpV4Qzd7qHYfm6MnVFlJHD1NiJlZ+abSocH6IMrcIuOqEUY7wG9ZtxkYKa4um3rFhfU0w4se+5QwiQsem\/Wh+dTDtWhq\/hOX9dL8bibiYl7D9Ad8os4Ne6g6XW0fWJvBQ6cDdo\/nmdehgcVEuvPMHF7tO8V4ktoCwYf5bF4fDzLUWH\/rhyrXN7Jjtqk2NsFIfONFBBmKGq6wbRmHRB\/eQ0Tl9EqOsaEi02oHkKEYRKxX7+\/5wBoZ+hJbRGRVb4qxBZ0NuYWBZii2jV5+ZjQYv263+1WnIDr0YXZEYxnCYSg8ND2alB9BDMWt96Nzm\/U6r970DBX+2Q0Ip4+TyE2DMjKIofhOpSlHKwxN1\/AKfEgKYiiM9ZLH5PTnEFHbinCJhM+UYyh8Wj6PSS9LEcli\/TxGMaeOH\/QAMRQcWvk66H8cxvbW6kPxNZVjmPP\/pKgT14bZMV6w9ueKfno5hkLGSeHm6cJ7qIG4uoMIeCj4TpCyDHWF0riqSI2dAnRT4AdxQu84x7wG3KO+cHFTtb44AyEtPENoeQTjVjXbrqksVMLW7khTsVdA2RU8Q2i6i7DHtypxofJn0DWRNYUPDFq2eIbQmCUxpqB0geRzPw2G48iFzQGMLOPrTqCSDDHQpi4ukT1tbFIOKTuKSzgqj2cIlQ4B\/po6CwGv4tEsO5OCDkMmMRjxDEFpLtoYZ\/WvrYoe5dq48q0tipttT\/ZcPEMwjAKoU42r3uhy4YwRJYc4417tmzzzgWZ4Bo8xFPHWVcJFg8c6HubULDiThdxPVJkddDIY1uVgtZfeOkla3cnosxeXquqLqi\/DyaQXaxJXuojuHZLEDFQQsA12vRsENEPJ6wbrx56KIpah1PKH41lPdL8rdry49Ce34UgvsTPFAZD+ocJnkEjj\/nNcRRxh3UPVwZK4DE9xu2sdW8CnbNOXmsJZaIGToCMYmqYQudXwuxXuLvtGig\/q7zVHKlKElff9U4jqxOqpb1JCq91siTozi2+ptISB4YwNRJWvrm7c63XLDWWgAwBKeetqrHxaAIaZ0T1SHupaLF1egFaEYVHiCm39a8pAXFxJBCIyqjLZmlzppX53yHKZ8jAqUJib\/aqWsgrJl7AxmcaUmX55XbVByo1\/xcOAIKGfR3V7s74pxQqUm3TCGZgUCa\/oAfBj2igstXzBi0PS9TryW9TpMxkNIJek3\/eRF1Ul8YLLSJYn8NKIKN2kb99qr5iHJnvpC4k489EuK9mkXz8njqslKNGSVQWr9DwENtqgwrr3OxTdxV0p2RcD58HWbT0KQNHf3ekmULgxqSW7WyPAwHeu9CE5wyRFuENa9qaERKwugWtwLQIwHNmjUTyk5W+7AIJcruM2gKZiDM+kmIEof2MJ4BWXvV9CA8CDY2lwK1x2k\/4C+1SdNgVDp5B9YFEynC04O4D2dSpOgfA924rD7SnylE8WQKjYoemWAIk+1nngbC0rMgGKo7oLuwHmTGHqCPcnK8+EekhQXRUUQBYpW6jI7WFLBhaUFSEOE9MBDNkyDht\/OYUlXw4Mo1qQ0gAgk5s1yzhVQXScRIAVyC5cYbDGmjFa+N4LawYkaOsv7YfdwIZRNjLEGQNLe+FbMC21sng57w+gqtPCZR1cGtHiSJkInGNo23oDU\/VsrJcXtDadcTjab8WguAPS9ZUNu1G4JbQ79ygHKdq4MfMOUMywsoRfQruyrg53IdicxAc1+ReWiesd9nJIrMbAgajQlhWW\/BJad1NzmKI+G9WoT2e94edo2B3E1URu7gGStKDvuIywnYuBWdQk3TJqivXO25L94H41mkkUqbiGhQ3C5\/0chItk2VMFxQEYj9z3wV8n1JQU5CjvxGU2qd0gK0eRWOFNRdHrHphnw5+zc0Hd8RFGN3EGWVIPdIhP6mnHO7FomlvwQkqpxinLzAnBX4ksXyNWhtX1lRQ5b5IUzdKi88J7cK6CtgtZbx4vuWPM\/PE174GxCYkiBd4md5cfkhW\/ZcV\/wxZl8wUG7fz2fZy9wu8IhyFbWcVNQQPgh6wJJzid5KvxRNgS3MfsGsQcJKk99p2bDI5FNWk0eJvcbSIaVoup7h9kwIgMXsy4nksNMni8VcO5R4igtXAynBf1QBQfkt+04E7jgS26gl3kIUcrxlMecX7zEXKKLHU6BzSwqv3TGmr8g+8qPzIdqSpz1RvpqQ8rVT9lWUnRgBvfrUyz4c3fEGqXo3ar25fWmzjO7T3AKvXV4+hTrhdkbL5mGs\/7X8opP\/4qlRf3snDWt6BcDnT1ZWtpPJiMd3pjz0vF0g3pJNtsxh1WdhMu\/brA4BKdQJPTH3B9Ofc51DzjO4g3taLhJh9kAsJAVRN4PYQw3K5hqMHwLAwn\/Rth7LujBQRNlqL4he4vu4F0Ga0WWfc52iCvMPF+cdjnneAqggXx6nIZlpPp86zeX5i6h3LsRvCY9tCwoS\/Oy7w3DdfUqUOpu8f3m\/58UK358HHpIExvvjD76n924+pCkXx7IphNje3PpovmP8GLgYnG8NVHZRn4KY7e+hltA9tA\/zxDKYyBSs1svXZO20aq76MX8of\/GKStYbcFDHNlpFXUFdczruf+usJdoj6B92rW+X\/wu6JR7Y2LFQu7fsfpjdAh0GhPB91vfLxUaz7Z\/QfZhtcoewtl1AAAAABJRU5ErkJggg==",
+            "title": "24\/7 Customer Support",
+            "description": "<p>Get All Answers! Don't worry and Just <a href=\"\/pages\/contact\" title=\"Contact\"><strong>Contact<\/strong><\/a> Us On the Website.<\/p>",
+            "link": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        }
+      },
+      "block_order": [
+        "16225125199f82d8fe-0",
+        "71deafbb-3baf-443a-a087-3f7b8af7b9fa",
+        "16225125199f82d8fe-1",
+        "16225125199f82d8fe-2"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "rgba(0,0,0,0)",
+        "item_per_row": 4,
+        "item_gap": 30,
+        "item_gap_mobile": 10,
+        "card_style": "horizontal",
+        "image_max_width": "30px",
+        "content_alignment": "start",
+        "hover_effect": "scaling-down",
+        "enable_slider": false,
+        "show_pagination": true,
+        "show_navigation": true,
+        "use_scroll_mobile": false,
+        "use_grid_column_mb": false,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "1621243260e1af0c20",
+    "55048204-5cb9-473e-88c0-7ecd848f0eec",
+    "16225316461d1cff80",
+    "4c97c942-22ee-4805-a60b-e514ec9e6e14",
+    "featured_collection_NjeCqk",
+    "image_with_text_2_Pgk34j",
+    "162251092958fcda7c",
+    "1725112747cd9b32e5",
+    "16225125199f82d8fe"
+  ]
+}

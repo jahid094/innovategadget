@@ -1,0 +1,381 @@
+{
+  "current": {
+    "favicon": "shopify:\/\/shop_images\/Favicon.png",
+    "enable_rtl": true,
+    "container_width": 1280,
+    "container_fluid_width": 1280,
+    "container_fluid_offset": 40,
+    "spacing_sections": 26,
+    "color_primary": "#ff0000",
+    "color_main_bg": "#fff",
+    "color_field_bg": "#d3daf1",
+    "color_body_text": "#000000",
+    "color_heading_text": "#c69c17",
+    "color_sub_text": "#000000",
+    "color_text_link": "#1741c6",
+    "color_text_link_hover": "#1741c6",
+    "color_btn_bg": "#c69c17",
+    "color_btn_secondary_border": "#ff0000",
+    "color_btn_bg_hover": "#1741c6",
+    "prod_sale_price_color": "#ffcc0a",
+    "prod_regular_price_color": "#ff0000",
+    "prod_type_color": "#ff0000",
+    "prod_desc_color": "#000000",
+    "color_annoucement_bg": "#1741c6",
+    "color_annoucement_text": "#fff",
+    "color_topbar_bg": "#c69c17",
+    "color_topbar_text": "#ffffff",
+    "color_header_bg": "#ffffff",
+    "color_header_link": "#000000",
+    "color_header_transparent": "#c69c17",
+    "bg_cart_wishlist_count": "#c69c17",
+    "color_menu_bar_bg": "#000000",
+    "color_menu_bar_text": "#f8f8f8",
+    "color_footer_bg": "#1741c6",
+    "color_footer_text": "#ffffff",
+    "color_footer_subtext": "#ffffff",
+    "color_footer_link": "#ffffff",
+    "color_footer_link_hover": "#ffffff",
+    "color_footer_bg_mb": "#1741c6",
+    "color_footer_bottom_bg": "#1741c6",
+    "color_footer_bottom_text": "#ffffff",
+    "color_footer_bottom_bg_mb": "#1741c6",
+    "color_border": "#ffffff",
+    "img_overlay_bg": "#1741c6",
+    "img_overlay_opacity": 25,
+    "tooltip_background_color": "#c69c17",
+    "tooltip_text_color": "#ffff00",
+    "type_base_font": "montserrat_n6",
+    "use_custom_font_body": true,
+    "custom_body_font": "https:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/Jost-Regular.ttf?v=1618297125@400\nhttps:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/Jost-Medium.ttf?v=1618297125@500\nhttps:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/Jost-SemiBold.ttf?v=1618297125@600",
+    "custom_body_weight": "500",
+    "type_base_size": 16,
+    "type_base_line_height": 22,
+    "type_header_font": "open_sans_n6",
+    "use_custom_font_heading": false,
+    "custom_heading_font": "https:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/Jost-Regular.ttf?v=1618297125@400\nhttps:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/Jost-Medium.ttf?v=1618297125@500\nhttps:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/Jost-SemiBold.ttf?v=1618297125@600",
+    "custom_heading_weight": "400",
+    "type_header_base_size": 26,
+    "btn_uppercase_text": false,
+    "btn_base_size": 16,
+    "btn_letter_spacing": 0,
+    "btn_line_height": 16,
+    "btn_weight": "500",
+    "pcard_layout": "4",
+    "pcard_alignment": "center",
+    "pcard_image_ratio": "1\/1",
+    "show_swatch_option": true,
+    "pcard_option_design": "color",
+    "pcard_limit_values_number": 0,
+    "show_cart_button": true,
+    "show_compare_button": true,
+    "show_countdown": true,
+    "select_option_button_action": "link",
+    "on_sale_badge": "show_percentage",
+    "show_badge_soldout": true,
+    "show_review_badge": true,
+    "show_vendor": true,
+    "uppercase_prd_name": false,
+    "pcard_title_line_clamp": "2",
+    "pcard_show_lowest_prices": true,
+    "variant_option_design_default": "color",
+    "variant_option_design1": "button",
+    "variant_option_design2": "color",
+    "variant_option_design3": "color",
+    "variant_option_title5": "Type",
+    "product_colors": "Red: #ff6961,\nYellow: #fdda76,\nBlack: #000000,\nBlack band: #000000,\nBlue: #8db4d2,\nGreen: #c1e1c1,\nPurple: #b19cd9,\nsilver: #eeeeef,\nwhite: #ffffff,\nbrown: #836953,\nlight brown: #b5651d,\ndark turquoise: #23cddc,\norange: #ffb347,\ntan: #e9d1bf,\nviolet: #b490b0,\npink: #ffd1dc,\ngrey: #e0e0e0,\nsky: #96bdc6,\npale leaf: #ccd4bf,\nlight blue: #b1c5d4,\ndark grey: #aca69f,\nbeige: #ebe6db,\nbeige band: #eed9c4,\ndark blue: #063e66,\ncream: #ffffcc,\nlight pink: #fbcfcd,\nmint: #bedce3,\ndark gray: #3a3b3c,\nrosy brown: #c4a287,\nlight grey: #d3d3d3,\ncopper: #b87333,\nrose gold: #ecc5c0,\nnight blue: #151b54,\ncoral: #ff7f50,\nlight purple: #c6aec7,\nnavy: #202638,\nroyal: #185593,\nheather royal: #4c7ab4,\nsapphire: #1584b1,\nheather Irish green: #4ea073,\nlime: #99bb6c,\ncharcoal: #646164,\ngraphite heather: #797c7e,\ndaisy: #f5cc4b,\nNavy Blue: #35415a,\nOlive Green: #63704b,\nRoyal Blue: #19569e,\nIrish Green: #1e8744,\nSport Grey: #b2b2b2,\nMilitary Green: #5c604a,\nHeather Navy: #464855,\nSapphire: #1674ac,\nHeather Irish Green: #6bcd93,\nNatural: #f1e7d6,\nHeather Indigo: #596678,\nIce Gray: #cecccb,\nTropical Blue: #188e9f,\nSand: #d4c8b5,\nMint Green: #a7d5b6,\nAsh: #eeedf0,\nCarolina Blue: #688ecc,\nCrunchberry: #d55f89,\nBay: #8d9b8d,\nBerry: #624659,\nBlossom: #ebc0d5,\nChambray: #cbe0eb,\nIvory: #e7e0d5,\nMoss: #666c5f,\nMustard: #cdaa6b,\nFlo Blue: #7381c7,\nWatermelon: #c96870,\nYam: #ac6540,\nOatmeal Heather: #e0ded6,\nHeather Grey: #d0d0d0,\nBlue Lake: #5887cc,\nVegas Gold: #d6cd97,\nTrue Royal: #3b57a2,\nRed: #b43134,\nBlack: #151515,\nKelly: #176947,\nYellow Haze: #f5d89d,\nAzalea: #e989b5,\nIce Grey: #eae1da,\nNeon Blue: #134ca2,\nHeliconia: #da4e80,\nCoral Silk: #da686b,\nCrème: #e9d4c4,\nGrey Heather: #c0c8ce,\nAmethyst: #b0abc9,\nClay: #d5a2a5,\nOcean: #b9c9d6,\nSmoke: #cbccc8,",
+    "filter_color1": "Gingham",
+    "filter_color2": "flannel",
+    "article_show_date": false,
+    "article_show_excerpt": true,
+    "article_show_button": true,
+    "share_image": "shopify:\/\/shop_images\/Urban_Nock_-_Logo_-_280.png",
+    "share_facebook": true,
+    "share_pinterest": true,
+    "contact_phone_number": "+1 (239) 362-4634",
+    "contact_email": "admin@innovategadget.com",
+    "find_store": "contact",
+    "social_twitter_link": "",
+    "social_twitter_label": "",
+    "social_facebook_link": "https:\/\/facebook.com\/",
+    "social_facebook_label": "",
+    "social_pinterest_link": "",
+    "social_pinterest_label": "",
+    "social_instagram_link": "https:\/\/instagram.com\/",
+    "social_instagram_label": "",
+    "social_youtube_link": "https:\/\/www.youtube.com\/",
+    "social_whatsapp_link": "https:\/\/wa.link\/wzjkyx",
+    "social_whatsapp_label": "",
+    "social_spotify_link": "",
+    "social_linkedin_link": "",
+    "cart_drawer_show_accelerated_button": true,
+    "discount_code_enable": true,
+    "search_by_tag": true,
+    "search_by_body": true,
+    "popular_search_queries": "",
+    "search_unavailable_products": "LAST",
+    "wishlist_page": "wishlist",
+    "product_compare_page": "products-comparison",
+    "agree_text": "<p>I agree with the <a href=\"\/policies\/terms-of-service\" target=\"_blank\" title=\"Terms of Service\"><strong>Terms & Conditions<\/strong><\/a><\/p>",
+    "show_agree_on_cart": true,
+    "show_agree_on_product": true,
+    "show_agree_on_register": true,
+    "show_cookie_consent": true,
+    "cookie_consent_placement": "bottom-left",
+    "cookie_consent_theme": "white",
+    "instagram_token": "",
+    "custom_css": ".sf-topbar {\n  border-color: #eee;\n}\n[id$=\"16225125199f82d8fe\"] .section-my {\n  padding-top: 30px;\n  padding-bottom: 30px;\n  margin-bottom: 10;\n  margin-top: 10;\n}\n[id$=\"16225125199f82d8fe\"] {\n  border-top: 1px solid #eee;\n}\n.sf__font-normal {\n  font-weight: 400;\n}\n[id$=\"16225316461d1cff80\"]\n  .collection-card__info\n  h3\n  a {\n  font-weight: 400;\n  font-size: 24px;\n  line-height: 34px;\n  margin-bottom: 4px;\n}\n[id$=\"16225316461d1cff80\"]\n  .collection-card__info\n  p {\n  color: #666;\n}\n[id$=\"16225125199f82d8fe\"] .sf-icon-box__text h3 {\n  line-height: 26px;\n  font-size: 20px;\n  font-weight: 500;\n}\n@media (min-width: 1536px) {\n  [id$=\"1621243260e1af0c20\"] .slide__block-title {\n    font-size: 100px;\n    line-height: 95px;\n  }\n}\n@media (max-width: 576px) {\n  [id$=\"1621243260e1af0c20\"] a.sf__mobile-button,\n  [id$=\"162251092958fcda7c\"] .sf__btn-primary,\n  [id$=\"162251092958fcda7c\"] .sf__btn-secondary {\n    width: 100%;\n  }\n  [id$=\"16225316461d1cff80\"] .section__heading {\n    text-align: center;\n  }\n  [id$=\"16225316461d1cff80\"]\n    .collection-card__info\n    h3\n    a {\n    font-weight: 500;\n  }\n  [id$=\"16225316461d1cff80\"]\n    .collection-card__info\n    p {\n    font-size: 14px;\n    line-height: 20px;\n  }\n  [id$=\"16225125199f82d8fe\"] .sf-icon-box__text h3 {\n    font-size: 18px;\n    margin-bottom: 2px;\n  }\n}",
+    "review_app": "judge",
+    "currency_code_enabled": true,
+    "checkout_logo_image": "shopify:\/\/shop_images\/Urban_Nock_-_Logo_-_280.png",
+    "checkout_logo_position": "center",
+    "show_variant_swatch_image": true,
+    "bg_cart_count": "#da3f3f",
+    "sections": {
+      "header": {
+        "type": "header",
+        "blocks": {
+          "5e153016-a9d7-46c9-a10e-30d16446793d": {
+            "type": "topbar",
+            "settings": {
+              "show_divider": false,
+              "show_phone_numb": false,
+              "show_email": false,
+              "show_social_links": true,
+              "show_stores_page": false,
+              "show_currency_switcher": false,
+              "show_country_selector": true,
+              "show_language_switcher": true,
+              "alert_message": "<span>Innovate Gadget - \"Smart Living, Stylish Homes\"<\/span>"
+            }
+          },
+          "5b9aec5f-b955-4765-9a87-1962d613e909": {
+            "type": "custom_html",
+            "disabled": true,
+            "settings": {
+              "heading": "Home",
+              "container": "container",
+              "html": ""
+            }
+          },
+          "a820a1bc-dfc4-4e61-8c8a-de23659759a6": {
+            "type": "banner",
+            "disabled": true,
+            "settings": {
+              "heading": "Shop",
+              "container": "container",
+              "banner_style": "outside",
+              "banner_link": "",
+              "banner_title": "The New - Season Shoes Edit",
+              "banner_desc": "",
+              "banner_button_text": "Shop now"
+            }
+          },
+          "31481022-f698-4968-bf06-3c24f36b09e7": {
+            "type": "product-list",
+            "disabled": true,
+            "settings": {
+              "heading": "Products",
+              "container": "container-fluid",
+              "stretch_width": false,
+              "collection": "best-sellers",
+              "limit": 6,
+              "columns": 2
+            }
+          },
+          "ea723308-92c0-42ae-a45d-aede426d8cdd": {
+            "type": "custom_html",
+            "disabled": true,
+            "settings": {
+              "heading": "Features",
+              "container": "inherit",
+              "html": ""
+            }
+          }
+        },
+        "block_order": [
+          "5e153016-a9d7-46c9-a10e-30d16446793d",
+          "5b9aec5f-b955-4765-9a87-1962d613e909",
+          "a820a1bc-dfc4-4e61-8c8a-de23659759a6",
+          "31481022-f698-4968-bf06-3c24f36b09e7",
+          "ea723308-92c0-42ae-a45d-aede426d8cdd"
+        ],
+        "settings": {
+          "header_design": "logo-left-menu-center",
+          "container": "container-fluid",
+          "header_sticky": true,
+          "transparent_on_top": false,
+          "logo_text": "Innovate Gadget",
+          "logo": "shopify:\/\/shop_images\/200x113px.png",
+          "logo_mobile": "shopify:\/\/shop_images\/150x85px.png",
+          "logo_transparent": "shopify:\/\/shop_images\/200x113px.png",
+          "logo_svg": "",
+          "logo_mobile_svg": "",
+          "logo_transparent_svg": "",
+          "logo_max_width": 200,
+          "sticky_logo_max_width": 110,
+          "mobile_logo_max_width": 110,
+          "main_menu": "main-menu",
+          "secondary_menu": "main-menu",
+          "mobile_menu": "main-menu",
+          "uppercase_parent_level": false,
+          "search": "show_icon",
+          "show_account_icon": true,
+          "show_cart_icon": true,
+          "show_wishlist_icon": false,
+          "show_compare_icon": false,
+          "show_currency_switcher": false,
+          "show_country_selector": false,
+          "show_language_switcher": false
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "93571032-b171-4c66-8b3e-96cd91946363": {
+            "type": "our_store",
+            "settings": {
+              "title": "ABOUT US",
+              "description": "<p><strong>Innovate Gadget<\/strong>, We curate the latest gadgets & accessories to elevate your digital life. <strong>@<\/strong><a href=\"https:\/\/innovategadget.com\/\" title=\"https:\/\/innovategadget.com\/\"><strong>Innovate Gadget <\/strong><\/a>Explore smart tech, home devices & more. Shop with ease and experience the future of tech, today. Thanks<\/p>",
+              "show_email": true,
+              "show_phone": true,
+              "show_socials_link": true,
+              "width": "25%",
+              "order_first": true,
+              "open_default": false
+            }
+          },
+          "49e72833-c68f-4a7b-ab64-3ef0cae99bcb": {
+            "type": "menu",
+            "settings": {
+              "menu": "information",
+              "title": "INFORMATION",
+              "width": "25%",
+              "order_first": false,
+              "open_default": false
+            }
+          },
+          "menu_rQG98J": {
+            "type": "menu",
+            "settings": {
+              "menu": "footer",
+              "title": "CUSTOMER CARE",
+              "width": "25%",
+              "order_first": false,
+              "open_default": false
+            }
+          },
+          "7b0bf4c6-3873-4222-b8d6-ce009e710078": {
+            "type": "newsletter",
+            "settings": {
+              "title": "SUBSCRIBE TO OUR NEWSLETTER",
+              "description": "Get 10% off your first purchase and stay on top of the latest in Innovate Gadget, it's win-win-WIN!",
+              "email_placeholder": "Enter your email address",
+              "form_style": "bordered",
+              "show_social": true,
+              "show_agree_checkbox": true,
+              "width": "33%",
+              "order_first": true,
+              "open_default": true
+            }
+          }
+        },
+        "block_order": [
+          "93571032-b171-4c66-8b3e-96cd91946363",
+          "49e72833-c68f-4a7b-ab64-3ef0cae99bcb",
+          "menu_rQG98J",
+          "7b0bf4c6-3873-4222-b8d6-ce009e710078"
+        ],
+        "settings": {
+          "design": "footer-1",
+          "container": "container-fluid",
+          "bordered": false,
+          "copyright": "Copyright © 2024 Innovate Gadget - All Rights Reserved.",
+          "show_country_selector": true,
+          "show_currency_selector": false,
+          "show_language_selector": true,
+          "show_social_links": true,
+          "show_payment_icons": true,
+          "payment_icons_width": 200
+        }
+      },
+      "annoucement": {
+        "type": "annoucement",
+        "settings": {
+          "show_announcement": true,
+          "homepage_only": true,
+          "show_close": true,
+          "message": "FREE & FASTEST SHIPPING WORLDWIDE | 14-DAYS FREE RETURNS",
+          "message_link": "shopify:\/\/policies\/refund-policy",
+          "show_divider": false
+        }
+      },
+      "mobile-sticky-bar": {
+        "type": "mobile-sticky-bar",
+        "settings": {
+          "show_mobile_sticky": true,
+          "show_home_icon": true,
+          "show_collection_icon": true,
+          "show_cart_icon": true,
+          "show_search_icon": true,
+          "show_account_icon": true,
+          "show_wishlist_icon": true
+        }
+      }
+    },
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "9670189827046205946": {
+        "type": "shopify:\/\/apps\/hextom-translate-and-currency\/blocks\/app-block\/b927a799-be04-4b97-9efb-5c8f0290a68e",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "15683396631634586217": {
+        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": false,
+        "settings": {
+          "button_color": "#000000",
+          "secondary_color": "#ffffff",
+          "ternary_color": "#6a6a6a",
+          "button_icon": "chat_bubble",
+          "button_text": "chat_with_us",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "greeting_message": ""
+        }
+      },
+      "13768625480086291342": {
+        "type": "shopify:\/\/apps\/forms\/blocks\/forms\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "14060646107696862457": {
+        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "11068332061543699368": {
+        "type": "shopify:\/\/apps\/booster-page-speed-optimizer\/blocks\/app-embed\/d920faf3-7c60-423a-9636-22618b5561b5",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "8857984110089213392": {
+        "type": "shopify:\/\/apps\/hextom-sales-boost\/blocks\/usb-embeded-block\/00e81c42-8ae7-4b0b-b43d-99393b885fc4",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  },
+  "platform_customizations": {
+    "custom_css": [
+
+    ]
+  }
+}

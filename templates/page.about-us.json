@@ -1,0 +1,73 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-about-us",
+      "settings": {
+      }
+    },
+    "custom-content": {
+      "type": "custom-content",
+      "blocks": {
+        "f5e88f1f-ff68-4d03-b686-0cb9fe62fab1": {
+          "type": "text",
+          "settings": {
+            "title": "<h4 class=\"about__block-heading\">It pains me physically to see woman victimized,<br> rendered pathetic by fashion.<\/h4>\n<p class=\"about__block-subheading\">Awkwardness gives me great comfort. I’ve never been cool, but I’ve felt cool. I’ve been in the<br> cool place, but I wasn’t really cool – I was trying to pass for hip or cool.<\/p>",
+            "subheading": "",
+            "text": "<p>A girl should be two things: classy and fabulous. I am convinced that there can be luxury in simplicity. I wanted to dress the woman who lives and works, not the woman in a painting. It’s hard to balance everything. It’s always challenging. My relationships with producers or photographers – these are relationships that took years. I can’t get sucked into that celebrity thing, because I think it’s just crass. My aim is to make the poor look rich and the rich look poor. Vanity is the healthiest thing in life. I believe that my clothes can give people a better image of themselves – that it can increase their feelings of confidence and happiness. You can hide so much behind theatrics, and I don’t need to do that any more. I don’t really know how to do casual clothes.<\/p>",
+            "width": "100%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": "sf__about-block sf__about-block-text sf__about-block-text-1"
+          }
+        },
+        "4e1fb14f-ef60-4693-b6a2-2b26063e1b70": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rs_w_1535_mgh_uig.webp",
+            "link": "",
+            "width": "33%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        },
+        "9a3a8077-de29-4141-9162-b9484d4a85f8": {
+          "type": "html",
+          "settings": {
+            "code": "<div class=\"sf__about-custom-list\">\n  <h3>Paz FAST The Love Solution<\/h3>\n  <ul>\n    <li>\n      <span><\/span>\n      <div class=\"rte\">\n          <h4>Discover and Embrace Your Truth\n<\/h4>\n          <p class=\"text-color-subtext\">Have you noticed your team's productivity has decreased? Are you used to being an overachiever and Peak Performer and currently feel blocked, with procrastination? \n\nWe all have places in our life where we feel blocked. Working together, we will identify those blocks and find ways for your team to overcome them.<\/p>\n      <\/div>\n    <\/li>\n    <li>\n      <span><\/span>\n      <div class=\"rte\">\n          <h4>Get Empowered with FAST The Love Solution<\/h4>\n          <p class=\"text-color-subtext\">Life is full of opportunities, and Alicia feels honored to help your team Discover and Embrace techniques to Get Empowered and Transform their lives, by taking Action, One Smile at a Time in order to overcome any challenge. <\/p>\n      <\/div>\n    <\/li>\n    <li>\n      <span><\/span>\n      <div class=\"rte\">\n          <h4>Transform Your Team to Live in Flow, Joy and Peace<\/h4>\n          <p class=\"text-color-subtext\">When your team learns Alicia's original \n<b>PEACE formula and the \nEmotional Freedom Principles, <\/b>\nthey learn how to be unstoppable and get around any obstacles.<\/p>\n<b>\n      <\/b>\n<\/div>\n<b>\n    <\/b>\n<\/li>\n<b>\n  <\/b>\n<\/ul>\n<b>\n<\/b>\n<\/div>",
+            "width": "66%",
+            "block_custom_class": "sf__about-custom-html"
+          }
+        }
+      },
+      "block_order": [
+        "f5e88f1f-ff68-4d03-b686-0cb9fe62fab1",
+        "4e1fb14f-ef60-4693-b6a2-2b26063e1b70",
+        "9a3a8077-de29-4141-9162-b9484d4a85f8"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "gap": 30,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": "sf__page-about"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "custom-content"
+  ]
+}

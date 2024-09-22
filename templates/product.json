@@ -1,0 +1,172 @@
+{
+  "sections": {
+    "breadcrumb": {
+      "type": "breadcrumb",
+      "settings": {
+        "container": "container",
+        "text_alignment": "left",
+        "hide_current": true,
+        "hide_on_mb": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_saving": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "size_title": "Size"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_atc_button": true,
+            "show_dynamic_checkout": true
+          }
+        },
+        "addons": {
+          "type": "addons",
+          "settings": {
+            "show_atcp": true,
+            "show_ask_a_question": false,
+            "show_social": true
+          }
+        },
+        "shipping_EkTa7A": {
+          "type": "shipping",
+          "settings": {
+            "show_delivery_times": true,
+            "deliver_text": "Estimated Delivery:",
+            "deliver_days": "8",
+            "date_format": "%b %d",
+            "show_shipping_text": true,
+            "shipping_text": "<p>Free and Fastest Shipping Worldwide | 14-Days Free Returns<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "variant_picker",
+        "buy_buttons",
+        "addons",
+        "shipping_EkTa7A"
+      ],
+      "settings": {
+        "container": "w-full",
+        "layout": "layout-6",
+        "show_atwl": true,
+        "enable_history_state": true,
+        "enable_variant_group_images": true,
+        "show_featured_media": true,
+        "show_zoom_button": true,
+        "enable_video_autoplay": false,
+        "show_nav_media_mobile": false,
+        "show_pagination_mobile": true,
+        "use_sticky_atc": true,
+        "use_sticky_atc_on_mobile": true,
+        "enable_dynamic_checkout": true,
+        "sticky_atc_wishtlist": true,
+        "sticky_atc_compare": true
+      }
+    },
+    "product-details-tabs": {
+      "type": "product-details-tabs",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {
+            "header": "Product Description"
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "header": "Shipping & Return",
+            "content": "<p>This Shipping & Delivery Policy is part of our <a href=\"\/policies\/terms-of-service\" title=\"Terms of Service\"><strong>Terms of Service<\/strong><\/a> (“Terms”) and should be therefore read alongside our main Terms.<\/p><p>Please carefully review our <a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\"><strong>Shipping & Delivery Policy<\/strong><\/a> when purchasing our products.<\/p><p>This policy will apply to any order you place with us.<\/p><p><strong>REFUNDS, RETURNS, AND EXCHANGES<br\/><\/strong>We accept returns up to 14 days after purchase if the item is unused and in its original condition, and we will refund the full order amount minus the shipping costs for the return.<\/p><p>You can read more about our <a href=\"\/policies\/refund-policy\" target=\"_blank\" title=\"Refund Policy\"><strong>Return Policy<\/strong><\/a>.<\/p><p><strong>HOW CAN YOU CONTACT US ABOUT THIS POLICY?<\/strong><br\/>If you have any further questions or comments, you may <a href=\"\/pages\/contact\" title=\"Contact\"><strong>Contact<\/strong><\/a><strong> <\/strong>us. <\/p><p><\/p>",
+            "content_page": ""
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "tab"
+      ],
+      "settings": {
+        "container": "container",
+        "bg_color": "",
+        "default_open": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "container": "container",
+        "heading": "You Might Also Like",
+        "text_align": "center",
+        "limit": 8,
+        "columns": 4,
+        "column_gap": 30,
+        "enable_slider": true
+      }
+    },
+    "recent-viewed-products": {
+      "type": "recent-viewed-products",
+      "settings": {
+        "container": "container",
+        "heading": "Recently Viewed Products",
+        "limit": 8,
+        "columns": 4,
+        "column_gap": 30,
+        "enable_slider": true
+      }
+    },
+    "17254421761c342e09": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_nAwerQ": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_nAwerQ"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "breadcrumb",
+    "main",
+    "product-details-tabs",
+    "product-recommendations",
+    "recent-viewed-products",
+    "17254421761c342e09"
+  ]
+}
